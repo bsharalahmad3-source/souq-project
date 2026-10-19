@@ -1,0 +1,87 @@
+{
+  "updated_at": "2026-10-19",
+  "status_values": [
+    "مقترحة",
+    "جاهزة",
+    "قيد التنفيذ",
+    "بانتظار مراجعة",
+    "مكتملة",
+    "مؤجلة"
+  ],
+  "tasks": [
+    {
+      "id": "BUYER-145",
+      "title": "حسم تصميم 1.4.5 داخل «أتابعها»",
+      "area": "المشتري",
+      "priority": "عالية",
+      "status": "جاهزة",
+      "suggested_agents": [
+        "ux-agent",
+        "chatgpt-orchestrator",
+        "review-agent"
+      ],
+      "owner": "chatgpt-orchestrator",
+      "deliverable": "تصميم يبرز المتجر كمساحة أساسية ويعرض منتجاته داخله بصورة تشبه تجربة المول أو السوق الحر.",
+      "next_action": "إنتاج ومقارنة 2–3 نماذج تصميمية ثم اعتماد واحد."
+    },
+    {
+      "id": "ADS-RESEARCH-01",
+      "title": "دراسة Convertedin لمركز الإعلانات",
+      "area": "مركز الإعلانات",
+      "priority": "عالية",
+      "status": "مقترحة",
+      "suggested_agents": [
+        "research-agent",
+        "commerce-agent",
+        "review-agent"
+      ],
+      "owner": "غير مسند",
+      "deliverable": "دروس عملية قابلة للتحويل إلى مركز إعلانات عكاوي.",
+      "next_action": "بحث النموذج التشغيلي والتسعير والقياس والإسناد."
+    },
+    {
+      "id": "DROP-RESEARCH-01",
+      "title": "دراسة Taager للدروبشوبينغ",
+      "area": "الدروبشوبينغ وفرص السوق",
+      "priority": "متوسطة",
+      "status": "مؤجلة",
+      "suggested_agents": [
+        "research-agent",
+        "commerce-agent"
+      ],
+      "owner": "غير مسند",
+      "deliverable": "نموذج مورد → تاجر → بيع → تحصيل → ربح مناسب لعكاوي.",
+      "next_action": "التنفيذ بعد إغلاق الملفات الأساسية."
+    },
+    {
+      "id": "LOG-RESEARCH-01",
+      "title": "دراسة Bosta للشحن والاستثناءات",
+      "area": "الشحن والتوصيل",
+      "priority": "متوسطة",
+      "status": "مقترحة",
+      "suggested_agents": [
+        "research-agent",
+        "tech-agent",
+        "review-agent"
+      ],
+      "owner": "غير مسند",
+      "deliverable": "أفضل الممارسات في التتبع، إثبات التسليم، إعادة الجدولة، الإرجاع، والتحصيل.",
+      "next_action": "تحويل الدراسة إلى تحديث لمسار العهدة والشحن."
+    },
+    {
+      "id": "AGENT-ARCH-01",
+      "title": "بناء منصة تنسيق الوكلاء",
+      "area": "الذكاء الاصطناعي",
+      "priority": "عالية",
+      "status": "قيد التنفيذ",
+      "suggested_agents": [
+        "chatgpt-orchestrator",
+        "tech-agent",
+        "review-agent"
+      ],
+      "owner": "chatgpt-orchestrator",
+      "deliverable": "منصة تقدم تفاعلية + سجل وكلاء + قائمة مهام + قواعد توزيع وربط مستقبلية.",
+      "next_action": "إطلاق النسخة الأولى على GitHub Pages ثم ربطها لاحقاً بمشغل آمن للخدمات الخارجية."
+    }
+  ]
+}
