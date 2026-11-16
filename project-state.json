@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05",
+  "updated_at": "2026-11-16",
   "overall_functional_progress": 52,
   "execution_started": false,
   "current_focus": {
@@ -346,6 +346,11 @@
       "name": "دروس السوق المصري",
       "path": "research/egypt-market-lessons-for-akkawi-2026.md",
       "use": "مراجع مقارنة متعددة"
+    },
+    {
+      "name": "فيديو نظام تشغيل متعدد الوكلاء بالذكاء الاصطناعي",
+      "path": "research/ai-os-multi-agent-video-2026.md",
+      "use": "معمارية الوكلاء، مركز الإعلانات، Revenue Management، المطابقة المالية، والموافقة البشرية"
     }
   ]
 }
