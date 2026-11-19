@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-20",
   "overall_functional_progress": 52,
   "execution_started": false,
   "current_focus": {
@@ -351,6 +351,11 @@
       "name": "فيديو نظام تشغيل متعدد الوكلاء بالذكاء الاصطناعي",
       "path": "research/ai-os-multi-agent-video-2026.md",
       "use": "معمارية الوكلاء، مركز الإعلانات، Revenue Management، المطابقة المالية، والموافقة البشرية"
+    },
+    {
+      "name": "فيديو حلقة العمل ثنائية النماذج",
+      "path": "research/dual-model-review-loop-video-2026.md",
+      "use": "Router، PLAN، إثبات التنفيذ، المراجعة المستقلة، Skills، وضمان جودة مهام عكاوي"
     }
   ]
 }
